@@ -9,6 +9,7 @@
  #### Login = charlles
  #### Senha = 123
  
+ ### Link da Demo https://github.com/israel206/SistemaVendas/blob/main/Telas-Cad-Sistemas/Tela-Principal.png
  ### Links Para o Projetos para Demo e Verificação da Telas Apresentação
  #### [Telas de Apresentação](https://github.com/israel206/SistemaVendas/tree/main/Telas-Cad-Sistemas)
  #### [Executavel](https://github.com/israel206/SistemaVendas/tree/main/Estoque-exe)
