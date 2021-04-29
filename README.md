@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Glass" src="" />
+  <img alt="Sistema de Vendas" src="" />
 </h1>
 
 <p align="center">
