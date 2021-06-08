@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Sistema de Vendas" src="" />
+  <img alt="Sistema de Vendas" src=".github/SistemaVenda.png" />
 </h1>
 
 <p align="center">
