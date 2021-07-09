@@ -61,8 +61,6 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 A sales system with stock, using Postgres database, for academic purposes
 
 This is a project developed during the **[Estoque de Vendas](https://youtu.be/pNvs6RSsm_4)**, presented by **[Canal java plugado](https://www.youtube.com/channel/UC_8SElusYdENzVw1Fsk0Nbg)** during 2015.
